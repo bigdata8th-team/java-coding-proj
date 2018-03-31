@@ -20,6 +20,7 @@ public class Misc_07_Pair {
         countList.add(stu3);
         countList.stream()
                 .map(line1 -> new ImmutablePair<String, Integer>(line1.getKey(), 1))
+                .filter(line -> line.getKey().equals("1")) // 这里必须用filter过滤出相同的key值
                 .reduce((line1, line2) ->
                         new ImmutablePair<String, Integer>(line1.getKey(), line1.getValue() + line2.getValue()))
                 .ifPresent(
