@@ -55,6 +55,8 @@ public class Person implements ProduceAction,Body {
 	public void showSkin() {
 		System.out.println("我的皮肤是：" + skin);
 	}
+
+
 	
 	public static void main(String[] args) {
 		// 1.测试多实现
