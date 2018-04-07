@@ -14,17 +14,16 @@
         <module name="j2se-02-design" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="01-j2se" target="1.5" />
       <module name="02-j2ee" target="1.5" />
       <module name="j2ee-01-servlet" target="1.5" />
-      <module name="j2ee-01-servlet-base" target="1.5" />
+      <module name="j2ee-01-servlet-base" target="1.8" />
       <module name="j2ee-02-spring" target="1.5" />
       <module name="j2ee-03-springmvc" target="1.5" />
       <module name="j2ee-04-springboot" target="1.5" />
       <module name="j2se-01-base" target="1.8" />
       <module name="j2se-02-design" target="1.8" />
-      <module name="j2se01base" target="1.5" />
       <module name="javacodingproj" target="1.5" />
     </bytecodeTargetLevel>
   </component>

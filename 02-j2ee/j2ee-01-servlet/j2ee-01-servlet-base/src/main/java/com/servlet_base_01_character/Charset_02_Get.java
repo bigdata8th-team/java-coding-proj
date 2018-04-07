@@ -1,5 +1,4 @@
-
-package com._01_character;
+package com.servlet_base_01_character;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,19 +10,16 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class Charset_01_Post
+ * Servlet implementation class Charset_02_Get
  */
-/*
- * 注解，servlet通过遍历注解查找action指定路径对应的服务
- */
-@WebServlet("/Charset_01_Post")
-public class Charset_01_Post extends HttpServlet {
+@WebServlet("/Charset_02_Get")
+public class Charset_02_Get extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	/**
 	 * @see HttpServlet#HttpServlet()
 	 */
-	public Charset_01_Post() {
+	public Charset_02_Get() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
@@ -32,12 +28,10 @@ public class Charset_01_Post extends HttpServlet {
 	 * @see HttpServlet#service(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("Charset_01_Post");
+		System.out.println("Charset_02_Get");
 		System.out.println("request content type:" + request.getContentType());
-		// post传送时，设置接受对象request的编码
-		request.setCharacterEncoding("utf-8");
 
-		// post传送时，设置响应对象response的编码
+		// get传送时，设置响应对象response的编码
 		response.setContentType("text/html");
 		response.setCharacterEncoding("utf-8");
 
@@ -45,11 +39,14 @@ public class Charset_01_Post extends HttpServlet {
 		String userName = request.getParameter("name");
 		String password = request.getParameter("pwd");
 
+		// get方式接收，设置数据编码字符集
+		userName = new String(userName.getBytes("iso-8859-1"), "utf-8");
+
 		System.out.println("用户名：" + userName + "\n密码：" + password);
 
 		// 响应
 		PrintWriter pw = response.getWriter();
-		pw.write("<p>恭喜你，post测试成功！</p>");
+		pw.write("<p>恭喜你，get测试成功！</p>");
 		pw.write("<p>成功登陆！</p>");
 		pw.flush();
 		pw.close();

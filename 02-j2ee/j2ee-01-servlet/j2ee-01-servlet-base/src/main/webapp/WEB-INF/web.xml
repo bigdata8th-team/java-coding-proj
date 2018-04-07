@@ -11,7 +11,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>Charset_01_Post</servlet-name>
-    <servlet-class>com._01_character.Charset_01_Post</servlet-class>
+    <servlet-class>com.servlet_base_01_character.Charset_01_Post</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Charset_01_Post</servlet-name>
@@ -19,7 +19,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Charset_01_get</servlet-name>
-    <servlet-class>com._01_character.Charset_02_Get</servlet-class>
+    <servlet-class>com.servlet_base_01_character.Charset_02_Get</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Charset_01_get</servlet-name>
@@ -43,7 +43,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Jdbc_01_Demo</servlet-name>
-    <servlet-class>com._03_jdbc.Jdbc_01_Demo</servlet-class>
+    <servlet-class>com.servlet_base_03_jdbc.Jdbc_01_Demo</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Jdbc_01_Demo</servlet-name>
@@ -51,7 +51,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Redirect_01_Demo</servlet-name>
-    <servlet-class>com._04_redirect.Redirect_01_Demo</servlet-class>
+    <servlet-class>com.servlet_base_04_redirect.Redirect_01_Demo</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Redirect_01_Demo</servlet-name>
@@ -59,7 +59,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Combine_01_Demo</servlet-name>
-    <servlet-class>com._05_combine.Combine_01_Demo</servlet-class>
+    <servlet-class>com.servlet_base_05_combine.Combine_01_Demo</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Combine_01_Demo</servlet-name>
@@ -67,7 +67,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Lifecycle_01_Demo</servlet-name>
-    <servlet-class>com._06_lifecycle.Lifecycle_01_Demo</servlet-class>
+    <servlet-class>com.servlet_base_06_lifecycle.Lifecycle_01_Demo</servlet-class>
     <init-param>
       <param-name>myDebug</param-name>
       <param-value>&quot;你好中国&quot;</param-value>
@@ -79,7 +79,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Thread_01_Tickets</servlet-name>
-    <servlet-class>com._08_thread.Thread_01_Tickets</servlet-class>
+    <servlet-class>com.servlet_base_08_thread.Thread_01_Tickets</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Thread_01_Tickets</servlet-name>
