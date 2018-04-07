@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -21,7 +31,7 @@
       <module name="j2ee-01-servlet" target="1.5" />
       <module name="j2ee-01-servlet-base" target="1.8" />
       <module name="j2ee-02-servlet-jsp" target="1.8" />
-      <module name="j2ee-02-spring" target="1.5" />
+      <module name="j2ee-02-spring" target="1.8" />
       <module name="j2ee-03-springmvc" target="1.5" />
       <module name="j2ee-04-springboot" target="1.5" />
       <module name="j2se-01-base" target="1.8" />

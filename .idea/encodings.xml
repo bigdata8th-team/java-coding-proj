@@ -12,6 +12,10 @@
     <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/src/main/java/com/_07_context/Context_01_SetAttribute.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/src/main/java/com/_07_context/Context_02_GetAttribute.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/src/main/java/com/_08_thread/Thread_01_Tickets.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_02_ioc/Computer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_02_ioc/MessageBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_03_annotation/Computer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_03_annotation/ExampleBean.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
