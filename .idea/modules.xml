@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-j2se/01-j2se.iml" filepath="$PROJECT_DIR$/01-j2se/01-j2se.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/02-j2ee.iml" filepath="$PROJECT_DIR$/02-j2ee/02-j2ee.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/j2ee-01-servlet-base.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/j2ee-01-servlet-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/j2ee-02-spring.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-02-spring/j2ee-02-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-springmvc.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-04-springboot/j2ee-04-springboot.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-04-springboot/j2ee-04-springboot.iml" />
