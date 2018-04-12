@@ -10,6 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>j2ee-03-springmvc</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>j2ee-01-mvc-annotation</module>
+        <module>j2ee-02-mvc-filter</module>
+        <module>j2ee-03-mvc-aop</module>
+    </modules>
 
 
 </project>

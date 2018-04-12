@@ -16,10 +16,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="j2ee-01-mvc-annotation" />
         <module name="j2ee-01-servlet-base" />
         <module name="j2ee-02-servlet-jsp" />
         <module name="j2ee-02-spring" />
-        <module name="j2ee-03-springmvc" />
         <module name="j2ee-04-springboot" />
         <module name="j2se-01-base" />
         <module name="j2se-02-design" />
@@ -28,6 +28,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="01-j2se" target="1.5" />
       <module name="02-j2ee" target="1.5" />
+      <module name="j2ee-01-mvc-annotation" target="1.5" />
       <module name="j2ee-01-servlet" target="1.5" />
       <module name="j2ee-01-servlet-base" target="1.8" />
       <module name="j2ee-02-servlet-jsp" target="1.8" />
