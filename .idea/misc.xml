@@ -22,6 +22,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

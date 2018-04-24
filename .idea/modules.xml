@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/01-j2se/j2se-01-base/j2se-01-base.iml" filepath="$PROJECT_DIR$/01-j2se/j2se-01-base/j2se-01-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-j2se/j2se-02-design/j2se-02-design.iml" filepath="$PROJECT_DIR$/01-j2se/j2se-02-design/j2se-02-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/javacodingproj.iml" filepath="$PROJECT_DIR$/javacodingproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/springmvc-aop.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/springmvc-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/springmvc-filter.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/springmvc-filter.iml" />
     </modules>
   </component>
 </project>

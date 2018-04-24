@@ -16,6 +16,9 @@
     <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_02_ioc/MessageBean.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_03_annotation/Computer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/src/main/java/spring_03_annotation/ExampleBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-01-mvc-annotation/src/main/java/com/web/HelloController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-01-mvc-annotation/src/main/java/com/web/HihiController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/src/main/java/com.web/HelloController.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
