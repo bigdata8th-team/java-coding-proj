@@ -4,17 +4,29 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-j2se/01-j2se.iml" filepath="$PROJECT_DIR$/01-j2se/01-j2se.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/02-j2ee.iml" filepath="$PROJECT_DIR$/02-j2ee/02-j2ee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/02-j2ee.iml" filepath="$PROJECT_DIR$/02-j2ee/02-j2ee.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-01-mvc-annotation/j2ee-01-mvc-annotation.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-01-mvc-annotation/j2ee-01-mvc-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/j2ee-01-servlet-base.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/j2ee-01-servlet-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-02-servlet-jsp/j2ee-02-servlet-jsp.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-02-servlet-jsp/j2ee-02-servlet-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/j2ee-02-spring.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-02-spring/j2ee-02-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-02-spring/j2ee-02-spring.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-02-spring/j2ee-02-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-springmvc.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-springmvc.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-04-springboot/j2ee-04-springboot.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-04-springboot/j2ee-04-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-04-springboot/j2ee-04-springboot.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-04-springboot/j2ee-04-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-j2se/j2se-01-base/j2se-01-base.iml" filepath="$PROJECT_DIR$/01-j2se/j2se-01-base/j2se-01-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-j2se/j2se-01-base/j2se-01-base.iml" filepath="$PROJECT_DIR$/01-j2se/j2se-01-base/j2se-01-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-j2se/j2se-02-design/j2se-02-design.iml" filepath="$PROJECT_DIR$/01-j2se/j2se-02-design/j2se-02-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-j2se/j2se-02-design/j2se-02-design.iml" filepath="$PROJECT_DIR$/01-j2se/j2se-02-design/j2se-02-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/javacodingproj.iml" filepath="$PROJECT_DIR$/javacodingproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-02-servlet-jsp/servlet-jsp-test.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-02-servlet-jsp/servlet-jsp-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/servlet-test.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-01-servlet/j2ee-01-servlet-base/servlet-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-01-mvc-annotation/springmvc-annotation.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-01-mvc-annotation/springmvc-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/springmvc-aop.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/springmvc-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/springmvc-aop.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-03-mvc-aop/springmvc-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/springmvc-filter.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/springmvc-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/springmvc-filter.iml" filepath="$PROJECT_DIR$/02-j2ee/j2ee-03-springmvc/j2ee-02-mvc-filter/springmvc-filter.iml" />
     </modules>
   </component>

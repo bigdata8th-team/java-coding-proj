@@ -23,6 +23,9 @@
         <module name="j2ee-04-springboot" />
         <module name="j2se-01-base" />
         <module name="j2se-02-design" />
+        <module name="servlet-jsp-test" />
+        <module name="servlet-test" />
+        <module name="springmvc-annotation" />
         <module name="springmvc-aop" />
         <module name="springmvc-filter" />
       </profile>
@@ -40,6 +43,9 @@
       <module name="j2se-01-base" target="1.8" />
       <module name="j2se-02-design" target="1.8" />
       <module name="javacodingproj" target="1.5" />
+      <module name="servlet-jsp-test" target="1.8" />
+      <module name="servlet-test" target="1.8" />
+      <module name="springmvc-annotation" target="1.8" />
       <module name="springmvc-aop" target="1.8" />
       <module name="springmvc-filter" target="1.8" />
     </bytecodeTargetLevel>

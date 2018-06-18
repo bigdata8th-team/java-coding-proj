@@ -20,5 +20,6 @@ public class Misc_08_Optional {
         optional = new Misc_08_Optional();
         name = Optional.ofNullable(optional).map(result -> result.getName()).orElse("null");
         System.out.println(name);
+        System.out.println("optional test");
     }
 }
